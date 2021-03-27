@@ -1,0 +1,34 @@
+{
+	"name": "@rbxts/eletric-arc",
+	"version": "1.0.0-ts.0",
+	"description": "TypeScript port of Buildthomas' ElectricArc module",
+	"main": "lib/init.lua",
+	"typings": "lib/index.d.ts",
+	"scripts": {},
+	"contributors": [
+		{
+			"name": "Jonathan Holmes",
+			"url": "https://github.com/Vorlias"
+		},
+		{
+			"name": "buildthomas",
+			"url": "https://github.com/buildthomas"
+		}
+	],
+	"keywords": [
+		"roblox",
+		"electric",
+		"arc"
+	],
+	"author": "",
+	"licenses": [
+		{
+			"type": "Apache 2.0",
+			"url": "https://github.com/Roblox/rodux/blob/master/LICENSE"
+		}
+	],
+	"devDependencies": {
+		"@rbxts/compiler-types": "^1.0.0-types.0",
+		"@rbxts/types": "^1.0.466"
+	}
+}
